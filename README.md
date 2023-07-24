@@ -1,2 +1,2 @@
 # ProjetoSpotify
-Uma replicação em HTML e CSS para prática do flexbox e da responsividade. 
+Uma replica da página do Spotify Premium em HTML e CSS para praticar flexbox.
