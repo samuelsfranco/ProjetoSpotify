@@ -1,0 +1,296 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+    list-style: none;
+}
+#top-bar{
+    background-color:rgb(29, 117, 222);
+    display: flex;
+    justify-content: space-around;
+    gap: 330px;
+    padding: 13px;
+}
+#top-bar-langue p{
+    color: white;
+    font-size: 12px;
+    font-weight: 100;
+    margin-top: 8px;
+}
+#top-bar-langue a{
+   color: white;
+}
+#top-bar-X h1{
+    font-weight: 100;
+    font-size: 20px;
+    margin-right: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#c-bg-header{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0px;
+}
+#header-spotify-icon{
+    display: flex;
+    color: white;
+    margin-left: 120px;
+}
+#header-spotify-name-icon{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#spotify-icon-header{
+    height: 40px;
+    margin-right:10px;
+}
+#top-bar-list ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    margin-top: 10px;
+   margin-right: 130px;
+
+}
+#top-bar-list li{
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+font-weight: 600;
+color: white;
+}
+#c-services-section{
+ 
+}
+#services-section{
+   
+    background-color:rgb(29, 117, 222);
+}
+
+
+#content-section-1-top{
+    line-height: 80px;
+    margin-left: 410px;
+}
+#content-section-1-top h1{
+padding: 40px 0px 0px 0px;
+color: white;
+font-size: 35px;
+font-weight: 900;
+}
+#content-section-1-top p{
+    font-size: 25px;
+    font-weight: 300;
+    color: white;
+}
+#buttons-section1{
+    margin-left: 410px;
+margin-top: 20px;
+}
+#buttons-section1 button{
+    padding: 15px 30px;
+    border-radius: 45px;
+    font-weight: 900;
+}
+#button-section1{
+    background-color: #191414;
+    color: white;
+    border:none;
+}
+#button-section2{
+    background-color: #1d75de;
+    border: solid 2.5px white;
+    color: white;
+}
+#section1-terms-and-conditions{
+    margin-top: 50px;
+    padding-bottom: 40px;
+    margin-left: 410px;
+}
+#section1-terms-and-conditions p, a{
+    font-size: 11px;
+    color: white;
+}
+#c-main-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+#c-main-content h1{
+font-size: 35px;
+margin-top: 70px;
+font-weight: 900;
+color: black;
+}
+#main-cards{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 50px;
+gap: 50px;
+margin-bottom: 150px;
+}
+.icon-class-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 190px;
+    padding: 0px 0px 20px;
+    margin-left: 0px;
+}
+#text-card1{
+    text-align: center;
+}
+.text-cards-class {
+    text-align: center;
+}
+.text-cards-class h4{
+font-size: 18px;
+font-weight: 900;
+}
+.text-cards-class p{
+    font-size: 15px;
+    font-weight: 500;
+}
+#icon-main-card2{
+    margin: 0 auto;
+}
+#section2-cards2{
+    background-color: #efefef;
+    height: 1200px;
+}
+#content-choice-flat{
+    text-align: center;
+    padding: 60px 0px;
+}
+#content-choice-flat h1{
+    font-size: 30px;
+    font-weight: 800;
+    height: 60px;
+}
+#content-choice-flat p{
+    font-size: 17px;
+    font-weight: 500;
+}
+#c-carton-card{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 30px 0px;
+}
+
+.icon-card-c{
+    height: 20px;
+}
+#c-carton-card a{
+    color: black;
+    font-size: 16px;
+}
+#c-card-section2{
+display: flex;
+justify-content: center;
+gap: 30px;
+}
+#subscriver-card{
+background-color: white;
+height: 800px;
+width: 300px;
+border-radius: 15px;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.6)
+
+
+}
+
+#subscriver-card button{
+    padding: 5px;
+    border-radius: 4px;
+    font-size: 12px;
+}
+.button1-card-subscriber{
+color: white;
+background-color: #1d75de;
+border: none;
+font-weight: 800;
+border-radius: 50px;
+margin-top: 20px;
+height: 25px;
+margin-left: 20px;
+border: none;
+}
+.button2-card-subscriber{
+    color: #1d75de;
+    background-color: white;
+    border: solid 1px ;
+    font-weight: 800;
+    margin-top: 9px;
+    margin-left: 20px;
+}
+#subscriver-card h3{
+margin-top: 10px;
+margin-bottom: 10px;
+margin-left: 20px;
+font-weight: 900;
+}
+#subscriver-card p{
+    margin-left: 20px;
+    font-weight: 100;
+    font-size: 17px;
+    line-height: 25px;
+}
+
+hr{
+    align-self: stretch;
+    border-color: rgb(204, 204, 204);
+    margin: auto 0px 0px
+}
+#ok-icon{
+    height: 30px;
+    margin-left: 20px;
+    padding: 0px 10px 0px;
+    
+}
+#c-ok-list-cards{
+display: inline-block;
+}
+#c-lists-cards li{
+    display: flex;
+}
+#c-lists-cards span {
+line-height: 20px;
+}
+#c-buttom-terms-of-use{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#c-buttom-terms-of-use button{
+    font-size: 19px;
+padding: 15px 50px;
+background-color: black;
+border: none;
+border-radius: 20px;
+color: white;
+font-weight: 600;
+}
+#c-footer-cards p a{
+    margin-top: 40px;
+    font-size: 12.2px;
+color: #000000;
+}
+#c-buttom-terms-of-use3 button{
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: 19px;
+    padding: 15px 50px;
+    background-color: black;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    font-weight: 600;
+}
